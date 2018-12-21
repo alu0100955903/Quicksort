@@ -2,6 +2,11 @@ language: java
 sudo: false
 dist: trusty
 install: true
+ddons:
+  sonarcloud:
+    organization: "alu0100955903"
+    token:
+      secure: ""
 jdk:
   - oraclejdk8
 script:
