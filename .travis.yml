@@ -6,7 +6,7 @@ ddons:
   sonarcloud:
     organization: "alu0100955903-github"
     token:
-      secure: "c8bb4cd9e06ffa37604a869051ff24995fdac941"
+      secure: "7bdd27cc4f682c05a486f3146c56c08845f4008a"
   jdk:
   - oraclejdk8
 script:
